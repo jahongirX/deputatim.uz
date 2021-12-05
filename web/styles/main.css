@@ -1,0 +1,48 @@
+body{
+    background-color: #eee;
+}
+
+.text-right{
+    text-align: right !important;
+}
+
+header .logo{
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+header a{
+    color: #333;
+}
+
+.deputats{
+    margin: 0;
+    padding: 0;
+}
+.deputats .deputat_item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+}
+.deputats .deputat_item:last-child{
+    margin-bottom: 0;
+}
+.deputats .deputat_item .deputat_image{
+    width: 60px;
+    margin-right: 10px;
+}
+.deputats .deputat_item .deputat_image img{
+    width: 100%;
+    border-radius: 0.25rem;
+}
+.deputats .deputat_item .name{
+    font-weight: bold;
+    font-size: 20px;
+}
+.deputats .deputat_item .okrug{
+    font-size: 14px;
+}
