@@ -1,10 +1,9 @@
-<p align="center">
-    
-    <h1 align="center">Open Data Challenga Xakaton 2021 uchun Deputatim.uz loyihasi</h1>
-</p>
+<h1 align="center">Open Data Challenga Xakaton 2021 uchun Deputatim.uz loyihasi</h1>
 
-Ishlatilgan Texnoloiyalar
 
+
+**Ishlatilgan Texnoloiyalar**
+-------------------
 <ul>
     <li>Html/css - bootstrap</li>
     <li>Javascript - jQuery</li>
